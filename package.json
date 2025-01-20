@@ -24,7 +24,7 @@
   "homepage": "https://github.com/gabrieltanchen/finance-api#readme",
   "dependencies": {
     "@aws-sdk/client-s3": "3.674.0",
-    "@aws-sdk/s3-request-presigner": "3.674.0",
+    "@aws-sdk/s3-request-presigner": "3.731.1",
     "body-parser": "1.20.3",
     "connect-roles": "3.1.2",
     "cookie-parser": "1.4.7",
